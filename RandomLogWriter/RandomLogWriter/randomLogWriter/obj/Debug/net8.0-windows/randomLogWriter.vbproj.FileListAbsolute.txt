@@ -1,0 +1,50 @@
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.exe
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.deps.json
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.runtimeconfig.json
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.dll
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.pdb
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.Form1.resources
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.vbproj.GenerateResource.cache
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.AssemblyInfoInputs.cache
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.AssemblyInfo.vb
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.vbproj.CoreCompileInputs.cache
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.dll
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\refint\randomLogWriter.dll
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.pdb
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.genruntimeconfig.cache
+C:\Users\nikos.georgousis\source\repos\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\ref\randomLogWriter.dll
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.exe
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.deps.json
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.runtimeconfig.json
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.dll
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.pdb
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.Form1.resources
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.vbproj.GenerateResource.cache
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.AssemblyInfoInputs.cache
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.AssemblyInfo.vb
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.vbproj.CoreCompileInputs.cache
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.dll
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\refint\randomLogWriter.dll
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.pdb
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.genruntimeconfig.cache
+C:\Users\Nikos\Desktop\Dev Log Files\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\ref\randomLogWriter.dll
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.exe
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.deps.json
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.runtimeconfig.json
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.dll
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\bin\Debug\net8.0-windows\randomLogWriter.pdb
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.Form1.resources
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.FrmAbout.resources
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.Resources.resources
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.vbproj.GenerateResource.cache
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.AssemblyInfoInputs.cache
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.AssemblyInfo.vb
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.vbproj.CoreCompileInputs.cache
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.dll
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\refint\randomLogWriter.dll
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.pdb
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\randomLogWriter.genruntimeconfig.cache
+C:\Users\Nikos\Desktop\LogWriter\randomLogWriter\randomLogWriter\obj\Debug\net8.0-windows\ref\randomLogWriter.dll
