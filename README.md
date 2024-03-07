@@ -27,4 +27,9 @@ Random Log Writer is a simple log generation application developed in Visual Bas
 ## About
 Random Log Writer is licensed under the MIT License.
 
+## Third party resourse
+The words.txt file has been taken from the following repository:
+https://github.com/dwyl/english-words
+Kudos @dwyl for his great work.
+
 This application was developed by Nikos Georgousis as a project for Testinig purpose.
